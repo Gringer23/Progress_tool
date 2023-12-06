@@ -32,7 +32,7 @@ body{
     width: 270px;
     height: 270px;
     border-radius: 50%;
-    background-color: #f2f2f2;
+    background-color: #ffffff;
     margin: 15px auto;
     overflow: hidden;
 }
@@ -171,7 +171,7 @@ input:checked + .slider:before {
         width: 220px;
         height: 220px;
         border-radius: 50%;
-        background-color: #f2f2f2;
+        background-color: #ffffff;
         margin: 15px auto;
         overflow: hidden;
     }
